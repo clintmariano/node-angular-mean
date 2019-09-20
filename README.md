@@ -3,10 +3,12 @@
 This is a basic project that deals with user posts that includes basic CRUD.
 
 MongoDB - Express - Node - Angular
+
 Deployed on AWS: http://mean-angular-node-clint.s3-website.us-east-2.amazonaws.com/
 
 To run locally:
 Backend: npm run start:server
+
 Angular: ng serve
 
 ## Development server
